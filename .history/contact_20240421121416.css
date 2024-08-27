@@ -1,0 +1,13 @@
+.contact{
+    padding: 100px 20px;
+}
+textarea, input{
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border: 1px solid #f0e9ff;
+    border-radius: 5px;
+    padding-left: 18px;
+    font-size: 13px;
+}
